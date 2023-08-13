@@ -2,6 +2,6 @@
     "IsEncrypted": false,
     "Values": {
       "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
-      "AzureWebJobsStorage": ""
+      "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;EndpointSuffix=core.windows.net;AccountName=gosuno2d3mnfcstorage;AccountKey=A3mW4ygtPpNLcn0SD49JQqCZckLKb8zFICC3LzCvvOLyAjbjDKO5KQHeZumdpg8Q3I0ycumyhLn7+ASt9giiMw==;BlobEndpoint=https://gosuno2d3mnfcstorage.blob.core.windows.net/;FileEndpoint=https://gosuno2d3mnfcstorage.file.core.windows.net/;QueueEndpoint=https://gosuno2d3mnfcstorage.queue.core.windows.net/;TableEndpoint=https://gosuno2d3mnfcstorage.table.core.windows.net/"
     }
   }
